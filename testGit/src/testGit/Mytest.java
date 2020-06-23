@@ -6,5 +6,6 @@ public class Mytest {
 		System.out.println("연동...수정...");
 		System.out.println("수정이여^.^");
 		throw new ArithmeticException();
+		System.out.println("hi");
 	}
 }
